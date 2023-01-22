@@ -1,2 +1,3 @@
-﻿  HotEngine.cpp
+﻿  TestStand.cpp
+C:\Users\Pavel\Desktop\Тестовое C++\C++\HotEngine\TestStand.cpp(14,11): warning C4101: M: неиспользованная локальная переменная
   HotEngine.vcxproj -> C:\Users\Pavel\Desktop\Тестовое C++\C++\HotEngine\x64\Debug\HotEngine.exe
