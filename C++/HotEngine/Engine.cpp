@@ -8,7 +8,7 @@ float Engine::GetTadd(float V)
 
 float Engine::GetTsub(float Tenv)
 {
-    return this->C * (Tenv - this->Teng);
+    return this->C * (this->Teng - Tenv);
 }
 
 float Engine::GetAcceleration(float V)
